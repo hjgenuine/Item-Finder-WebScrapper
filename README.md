@@ -11,4 +11,3 @@ An example on how it works?:
 ![2](https://user-images.githubusercontent.com/64316945/159105255-65fe7ff0-a5e1-458f-8e7e-4cf17f39e03b.PNG)
 ![3](https://user-images.githubusercontent.com/64316945/159105256-d1050c44-4c45-4bcc-b499-acfc0a0d340e.PNG)
 
-# Thanks!
