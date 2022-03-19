@@ -3,7 +3,7 @@ A simple Item Finder, which basically scraps three websites Flipkart, PCShop and
 
 # How it works?
 Just enter the name of the item in the prompt and it will do its job. 
-Below screenshots shows, how it works?
+Below screenshots show, how it works?
 
 ![1](https://user-images.githubusercontent.com/64316945/159105395-8df573f7-60f7-4234-9453-27d53a6b7b37.PNG)
 
